@@ -1,0 +1,51 @@
+[2025-06-09 17:37:06,014] [p5450] [/home/ash99/vision/FaceRecognition/FaceLandmarkDetection/PFLD-pytorch/train.py:31] [INFO] workers: 0
+[2025-06-09 17:37:06,014] [p5450] [/home/ash99/vision/FaceRecognition/FaceLandmarkDetection/PFLD-pytorch/train.py:31] [INFO] devices_id: 0
+[2025-06-09 17:37:06,014] [p5450] [/home/ash99/vision/FaceRecognition/FaceLandmarkDetection/PFLD-pytorch/train.py:31] [INFO] test_initial: False
+[2025-06-09 17:37:06,014] [p5450] [/home/ash99/vision/FaceRecognition/FaceLandmarkDetection/PFLD-pytorch/train.py:31] [INFO] base_lr: 0.0001
+[2025-06-09 17:37:06,014] [p5450] [/home/ash99/vision/FaceRecognition/FaceLandmarkDetection/PFLD-pytorch/train.py:31] [INFO] weight_decay: 1e-06
+[2025-06-09 17:37:06,014] [p5450] [/home/ash99/vision/FaceRecognition/FaceLandmarkDetection/PFLD-pytorch/train.py:31] [INFO] lr_patience: 40
+[2025-06-09 17:37:06,014] [p5450] [/home/ash99/vision/FaceRecognition/FaceLandmarkDetection/PFLD-pytorch/train.py:31] [INFO] start_epoch: 1
+[2025-06-09 17:37:06,014] [p5450] [/home/ash99/vision/FaceRecognition/FaceLandmarkDetection/PFLD-pytorch/train.py:31] [INFO] end_epoch: 500
+[2025-06-09 17:37:06,014] [p5450] [/home/ash99/vision/FaceRecognition/FaceLandmarkDetection/PFLD-pytorch/train.py:31] [INFO] snapshot: ./checkpoint/snapshot/
+[2025-06-09 17:37:06,014] [p5450] [/home/ash99/vision/FaceRecognition/FaceLandmarkDetection/PFLD-pytorch/train.py:31] [INFO] log_file: ./checkpoint/train.logs
+[2025-06-09 17:37:06,014] [p5450] [/home/ash99/vision/FaceRecognition/FaceLandmarkDetection/PFLD-pytorch/train.py:31] [INFO] tensorboard: ./checkpoint/tensorboard
+[2025-06-09 17:37:06,014] [p5450] [/home/ash99/vision/FaceRecognition/FaceLandmarkDetection/PFLD-pytorch/train.py:31] [INFO] resume: 
+[2025-06-09 17:37:06,014] [p5450] [/home/ash99/vision/FaceRecognition/FaceLandmarkDetection/PFLD-pytorch/train.py:31] [INFO] dataroot: data/train_data/list.txt
+[2025-06-09 17:37:06,014] [p5450] [/home/ash99/vision/FaceRecognition/FaceLandmarkDetection/PFLD-pytorch/train.py:31] [INFO] val_dataroot: ./data/test_data/list.txt
+[2025-06-09 17:37:06,014] [p5450] [/home/ash99/vision/FaceRecognition/FaceLandmarkDetection/PFLD-pytorch/train.py:31] [INFO] train_batchsize: 128
+[2025-06-09 17:37:06,014] [p5450] [/home/ash99/vision/FaceRecognition/FaceLandmarkDetection/PFLD-pytorch/train.py:31] [INFO] val_batchsize: 128
+[2025-06-09 17:41:17,297] [p5450] [/home/ash99/vision/FaceRecognition/FaceLandmarkDetection/PFLD-pytorch/train.py:36] [INFO] Save checkpoint to ./checkpoint/snapshot/checkpoint_epoch_1.pth.tar
+[2025-06-09 17:44:20,801] [p5450] [/home/ash99/vision/FaceRecognition/FaceLandmarkDetection/PFLD-pytorch/train.py:36] [INFO] Save checkpoint to ./checkpoint/snapshot/checkpoint_epoch_2.pth.tar
+[2025-06-09 17:47:23,936] [p5450] [/home/ash99/vision/FaceRecognition/FaceLandmarkDetection/PFLD-pytorch/train.py:36] [INFO] Save checkpoint to ./checkpoint/snapshot/checkpoint_epoch_3.pth.tar
+[2025-06-09 17:55:31,302] [p5450] [/home/ash99/vision/FaceRecognition/FaceLandmarkDetection/PFLD-pytorch/train.py:36] [INFO] Save checkpoint to ./checkpoint/snapshot/checkpoint_epoch_4.pth.tar
+[2025-06-09 17:58:20,894] [p5450] [/home/ash99/vision/FaceRecognition/FaceLandmarkDetection/PFLD-pytorch/train.py:36] [INFO] Save checkpoint to ./checkpoint/snapshot/checkpoint_epoch_5.pth.tar
+[2025-06-09 18:00:59,489] [p5450] [/home/ash99/vision/FaceRecognition/FaceLandmarkDetection/PFLD-pytorch/train.py:36] [INFO] Save checkpoint to ./checkpoint/snapshot/checkpoint_epoch_6.pth.tar
+[2025-06-09 18:03:37,203] [p5450] [/home/ash99/vision/FaceRecognition/FaceLandmarkDetection/PFLD-pytorch/train.py:36] [INFO] Save checkpoint to ./checkpoint/snapshot/checkpoint_epoch_7.pth.tar
+[2025-06-09 18:06:41,544] [p5450] [/home/ash99/vision/FaceRecognition/FaceLandmarkDetection/PFLD-pytorch/train.py:36] [INFO] Save checkpoint to ./checkpoint/snapshot/checkpoint_epoch_8.pth.tar
+[2025-06-09 18:09:54,929] [p5450] [/home/ash99/vision/FaceRecognition/FaceLandmarkDetection/PFLD-pytorch/train.py:36] [INFO] Save checkpoint to ./checkpoint/snapshot/checkpoint_epoch_9.pth.tar
+[2025-06-09 18:12:53,722] [p5450] [/home/ash99/vision/FaceRecognition/FaceLandmarkDetection/PFLD-pytorch/train.py:36] [INFO] Save checkpoint to ./checkpoint/snapshot/checkpoint_epoch_10.pth.tar
+[2025-06-09 18:16:27,254] [p5450] [/home/ash99/vision/FaceRecognition/FaceLandmarkDetection/PFLD-pytorch/train.py:36] [INFO] Save checkpoint to ./checkpoint/snapshot/checkpoint_epoch_11.pth.tar
+[2025-06-09 18:21:18,733] [p5450] [/home/ash99/vision/FaceRecognition/FaceLandmarkDetection/PFLD-pytorch/train.py:36] [INFO] Save checkpoint to ./checkpoint/snapshot/checkpoint_epoch_12.pth.tar
+[2025-06-09 18:24:16,133] [p5450] [/home/ash99/vision/FaceRecognition/FaceLandmarkDetection/PFLD-pytorch/train.py:36] [INFO] Save checkpoint to ./checkpoint/snapshot/checkpoint_epoch_13.pth.tar
+[2025-06-09 18:27:17,006] [p5450] [/home/ash99/vision/FaceRecognition/FaceLandmarkDetection/PFLD-pytorch/train.py:36] [INFO] Save checkpoint to ./checkpoint/snapshot/checkpoint_epoch_14.pth.tar
+[2025-06-09 18:30:13,424] [p5450] [/home/ash99/vision/FaceRecognition/FaceLandmarkDetection/PFLD-pytorch/train.py:36] [INFO] Save checkpoint to ./checkpoint/snapshot/checkpoint_epoch_15.pth.tar
+[2025-06-09 18:33:04,757] [p5450] [/home/ash99/vision/FaceRecognition/FaceLandmarkDetection/PFLD-pytorch/train.py:36] [INFO] Save checkpoint to ./checkpoint/snapshot/checkpoint_epoch_16.pth.tar
+[2025-06-09 18:36:07,375] [p5450] [/home/ash99/vision/FaceRecognition/FaceLandmarkDetection/PFLD-pytorch/train.py:36] [INFO] Save checkpoint to ./checkpoint/snapshot/checkpoint_epoch_17.pth.tar
+[2025-06-09 18:39:17,998] [p5450] [/home/ash99/vision/FaceRecognition/FaceLandmarkDetection/PFLD-pytorch/train.py:36] [INFO] Save checkpoint to ./checkpoint/snapshot/checkpoint_epoch_18.pth.tar
+[2025-06-09 18:42:19,373] [p5450] [/home/ash99/vision/FaceRecognition/FaceLandmarkDetection/PFLD-pytorch/train.py:36] [INFO] Save checkpoint to ./checkpoint/snapshot/checkpoint_epoch_19.pth.tar
+[2025-06-09 18:45:20,795] [p5450] [/home/ash99/vision/FaceRecognition/FaceLandmarkDetection/PFLD-pytorch/train.py:36] [INFO] Save checkpoint to ./checkpoint/snapshot/checkpoint_epoch_20.pth.tar
+[2025-06-09 18:48:12,683] [p5450] [/home/ash99/vision/FaceRecognition/FaceLandmarkDetection/PFLD-pytorch/train.py:36] [INFO] Save checkpoint to ./checkpoint/snapshot/checkpoint_epoch_21.pth.tar
+[2025-06-09 18:50:53,671] [p5450] [/home/ash99/vision/FaceRecognition/FaceLandmarkDetection/PFLD-pytorch/train.py:36] [INFO] Save checkpoint to ./checkpoint/snapshot/checkpoint_epoch_22.pth.tar
+[2025-06-09 18:53:34,598] [p5450] [/home/ash99/vision/FaceRecognition/FaceLandmarkDetection/PFLD-pytorch/train.py:36] [INFO] Save checkpoint to ./checkpoint/snapshot/checkpoint_epoch_23.pth.tar
+[2025-06-09 18:56:15,799] [p5450] [/home/ash99/vision/FaceRecognition/FaceLandmarkDetection/PFLD-pytorch/train.py:36] [INFO] Save checkpoint to ./checkpoint/snapshot/checkpoint_epoch_24.pth.tar
+[2025-06-09 18:58:56,253] [p5450] [/home/ash99/vision/FaceRecognition/FaceLandmarkDetection/PFLD-pytorch/train.py:36] [INFO] Save checkpoint to ./checkpoint/snapshot/checkpoint_epoch_25.pth.tar
+[2025-06-09 19:01:37,221] [p5450] [/home/ash99/vision/FaceRecognition/FaceLandmarkDetection/PFLD-pytorch/train.py:36] [INFO] Save checkpoint to ./checkpoint/snapshot/checkpoint_epoch_26.pth.tar
+[2025-06-09 19:04:18,036] [p5450] [/home/ash99/vision/FaceRecognition/FaceLandmarkDetection/PFLD-pytorch/train.py:36] [INFO] Save checkpoint to ./checkpoint/snapshot/checkpoint_epoch_27.pth.tar
+[2025-06-09 19:07:33,213] [p5450] [/home/ash99/vision/FaceRecognition/FaceLandmarkDetection/PFLD-pytorch/train.py:36] [INFO] Save checkpoint to ./checkpoint/snapshot/checkpoint_epoch_28.pth.tar
+[2025-06-09 19:10:43,975] [p5450] [/home/ash99/vision/FaceRecognition/FaceLandmarkDetection/PFLD-pytorch/train.py:36] [INFO] Save checkpoint to ./checkpoint/snapshot/checkpoint_epoch_29.pth.tar
+[2025-06-09 19:13:56,313] [p5450] [/home/ash99/vision/FaceRecognition/FaceLandmarkDetection/PFLD-pytorch/train.py:36] [INFO] Save checkpoint to ./checkpoint/snapshot/checkpoint_epoch_30.pth.tar
+[2025-06-09 19:17:13,727] [p5450] [/home/ash99/vision/FaceRecognition/FaceLandmarkDetection/PFLD-pytorch/train.py:36] [INFO] Save checkpoint to ./checkpoint/snapshot/checkpoint_epoch_31.pth.tar
+[2025-06-09 19:20:29,742] [p5450] [/home/ash99/vision/FaceRecognition/FaceLandmarkDetection/PFLD-pytorch/train.py:36] [INFO] Save checkpoint to ./checkpoint/snapshot/checkpoint_epoch_32.pth.tar
+[2025-06-09 19:23:49,326] [p5450] [/home/ash99/vision/FaceRecognition/FaceLandmarkDetection/PFLD-pytorch/train.py:36] [INFO] Save checkpoint to ./checkpoint/snapshot/checkpoint_epoch_33.pth.tar
+[2025-06-09 19:27:12,189] [p5450] [/home/ash99/vision/FaceRecognition/FaceLandmarkDetection/PFLD-pytorch/train.py:36] [INFO] Save checkpoint to ./checkpoint/snapshot/checkpoint_epoch_34.pth.tar
+[2025-06-09 19:31:04,059] [p5450] [/home/ash99/vision/FaceRecognition/FaceLandmarkDetection/PFLD-pytorch/train.py:36] [INFO] Save checkpoint to ./checkpoint/snapshot/checkpoint_epoch_35.pth.tar
